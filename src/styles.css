@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Header {
+  background-color: #fff;
+  display: inline-block;
+  padding: 15px;
+  width: 50%;
+  margin: 10px 30px;
+  border-radius: 8px;
+}
+.ButtonMain {
+  background-color: #f68084;
+  padding: 8px;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+}
